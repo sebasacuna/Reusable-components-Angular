@@ -1,0 +1,5 @@
+
+
+.svg-disabled {
+  filter: saturate(0.1);
+}

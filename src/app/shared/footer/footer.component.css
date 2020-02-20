@@ -1,0 +1,13 @@
+.container-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+  height: 15vh;
+  box-sizing: border-box;
+  border: 1px solid darkcyan;
+  background-color: cadetblue;
+  color: white;
+  display: inline-flex;
+  justify-content: center;
+  align-content: center;
+}
